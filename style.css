@@ -1,2 +1,21 @@
+*{
+    font-family: sans-serif;
+    color:dodgerblue;
+    text-align: center;
+}
+#nav{
+    background-color: azure;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+}
 
+li{
+    display: inline;
+    padding: 5px;
+}
+
+img.medium{
+    width: 200px;
+    height: 200px;
+}
 
